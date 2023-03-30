@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>qt on Faraz Ahary</title>
+    <link>https://faraz.eu.org/categories/qt/</link>
+    <description>Recent content in qt on Faraz Ahary</description>
+    <image>
+      <url>https://faraz.eu.org/papermod-cover.png</url>
+      <link>https://faraz.eu.org/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://faraz.eu.org/categories/qt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fluorite Store</title>
+      <link>https://faraz.eu.org/posts/fluorite-store/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://faraz.eu.org/posts/fluorite-store/</guid>
+      <description>A modern graphical user interface for scoop, the windows package manager.</description>
+    </item>
+    
+  </channel>
+</rss>

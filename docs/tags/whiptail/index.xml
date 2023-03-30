@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>whiptail on Faraz Ahary</title>
+    <link>https://faraz.eu.org/tags/whiptail/</link>
+    <description>Recent content in whiptail on Faraz Ahary</description>
+    <image>
+      <url>https://faraz.eu.org/papermod-cover.png</url>
+      <link>https://faraz.eu.org/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://faraz.eu.org/tags/whiptail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux.sh</title>
+      <link>https://faraz.eu.org/posts/linux.sh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://faraz.eu.org/posts/linux.sh/</guid>
+      <description>A bash script to harden debian/ubuntu server installs for security, as well as automating some other useful tasks like setting up a wireguard vpn.</description>
+    </item>
+    
+    <item>
+      <title>Unattended Upgrades</title>
+      <link>https://faraz.eu.org/posts/unattended-upgrades/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://faraz.eu.org/posts/unattended-upgrades/</guid>
+      <description>A simple bash script to automate updates using popular package managers such as apt, dnf, pacman, pip, etc.</description>
+    </item>
+    
+    <item>
+      <title>Weather Fetch</title>
+      <link>https://faraz.eu.org/posts/weather-fetch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://faraz.eu.org/posts/weather-fetch/</guid>
+      <description>A simple bash script utilising the wttr.in api to create a neofetch but for weather.</description>
+    </item>
+    
+  </channel>
+</rss>
