@@ -27,6 +27,7 @@
       <description>A bash script to harden debian/ubuntu server installs for security, as well as automating some other useful tasks like setting up a wireguard vpn.</description>
     </item>
     
+    
     <item>
       <title>Systemd sandboxing templates</title>
       <link>https://faraz.eu.org/posts/systemd-sandboxing/</link>

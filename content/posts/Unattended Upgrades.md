@@ -7,8 +7,7 @@ categories: ["bash", "linux", "tui", "whiptail"]
 ShowToc: true
 TocOpen: true
 ---
-# Unattended-upgrades 
-
+ 
 |  |  |
 | --- | --- |
 ![image](https://user-images.githubusercontent.com/83690012/228487734-3b08913c-bee2-48e8-a7d4-594659b8be87.png) | ![image](https://user-images.githubusercontent.com/83690012/228489221-5f9d52b3-8ef9-4535-b4ac-89de4f576e79.png)
@@ -39,16 +38,4 @@ Currently Supported Package Managers
 - [x] Ruby
 - [ ] Docker 
 
--------------------|
-Pacman (Arch)      |
-Apt (debian/ubuntu)|
-Pip                |
-Flatpak            |
-Snap               |
-Ruby|
-Docker (coming soon)
-
-
-
 [Repo](https://github.com/t3dium/unattended-upgrades)
-
